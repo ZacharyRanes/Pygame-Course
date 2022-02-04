@@ -1,6 +1,6 @@
 import pygame
 pygame.init()
-screen = pygame.display.set_mode((1920, 1080), 0, 32)
+screen = pygame.display.set_mode((680, 420), 0, 32)
 pygame.display.set_caption("Hello Pygame")
 screen.fill((0, 0, 0))
 game_over = False
